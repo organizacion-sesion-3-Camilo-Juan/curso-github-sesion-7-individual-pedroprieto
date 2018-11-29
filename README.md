@@ -1,2 +1,2 @@
-# sesion7-tarea-individual
+# Proyecto Individual final de curso
 Tarea individual 7
